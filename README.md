@@ -1,9 +1,2 @@
 # LiDARHostCompute
-# 安装
-> npm install
-# 运行
-> npm run start
-# 打包
-> npm run build
-# 提交代码
-> cz
+# When using the LiDAR, it is necessary to perform debugging and configuration of the device, preview point cloud data, and conduct data analysis. A host viewer is required for these purposes. The host viewer can be connected to the LiDAR via a PC. Through the software, users and debuggers can conveniently view the quality of the point cloud data. They can also record, store, and replay the point cloud data, which facilitates subsequent use. Additionally, analyzing and processing the point cloud data can improve the efficiency of testing and validation. The software currently supports Windows 10 and Windows 11, with plans to gradually expand support to Linux or macOS in future versions.
